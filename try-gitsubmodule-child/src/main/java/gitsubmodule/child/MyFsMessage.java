@@ -1,4 +1,4 @@
-package gitsubmodule.child.util;
+package gitsubmodule.child;
 
 public class MyFsMessage {
     public static String hello(String msg) {
